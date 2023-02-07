@@ -1,6 +1,8 @@
 # basic-python
 The folder contains coding of basic python.
 Author: Teguh Dayanto
+        ig. @tgh.dayanto
+        fb. @tgh.dayanto
 
 basic_python_v01
 BASIC PYTHON
