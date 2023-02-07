@@ -2,7 +2,7 @@
 The folder contains coding of basic python.
 Author: Teguh Dayanto
 
-v01
+basic_python_v01
 BASIC PYTHON
   DASAR-DASAR PYTHON
     Pengantar
@@ -40,7 +40,7 @@ BASIC PYTHON
     User Input
     Format String
 
-v02
+file_handling_v01
   MENANGANI FILE
     File Handling
     Membuka File
