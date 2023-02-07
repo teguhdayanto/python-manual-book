@@ -49,7 +49,6 @@ file_handling_v01
     Menulis File
     Menghapus File
     Menghapus Folder
-  REFERENSI
-    Fungsi Built-in
+
 
 
