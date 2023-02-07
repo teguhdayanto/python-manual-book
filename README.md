@@ -1,7 +1,8 @@
 # basic-python
 The folder contains coding of basic python.
 Author: Teguh Dayanto
-    
+
+v01
 BASIC PYTHON
   DASAR-DASAR PYTHON
     Pengantar
@@ -38,5 +39,15 @@ BASIC PYTHON
     Try... Except
     User Input
     Format String
+
+v02
   MENANGANI FILE
-    bersambung...
+    File Handling
+    Membuka File
+    Menulis File
+    Menghapus File
+    Menghapus Folder
+  REFERENSI
+    Fungsi Built-in
+
+
