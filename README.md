@@ -1,10 +1,8 @@
-# basic-python
-The folder contains coding of basic python.
+# buku-resep-python
+Folder ini berisi resep-resep sintaks coding python.
 Author: Teguh Dayanto
         ig. @tgh.dayanto
         fb. @tgh.dayanto
-
-BASIC PYTHON
 
 basic_python_v01.ipynb
   DASAR-DASAR PYTHON
