@@ -4,7 +4,7 @@ Author: Teguh Dayanto
         ig. @tgh.dayanto
         fb. @tgh.dayanto
 
-basic_python_v01.ipynb
+01_basic_python_v01.ipynb
   DASAR-DASAR PYTHON
     Pengantar
     Langkah Awal
@@ -41,7 +41,7 @@ basic_python_v01.ipynb
     User Input
     Format String
 
-file_handling_v01.ipynb
+02_file_handling_v01.ipynb
   MENANGANI FILE
     File Handling
     Membuka File
@@ -49,7 +49,7 @@ file_handling_v01.ipynb
     Menghapus File
     Menghapus Folder
 
-references_v01.ipynb
+03_references_v01.ipynb
   REFERENSI
     Fungsi Built-in
     
