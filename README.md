@@ -53,4 +53,18 @@ Author: Teguh Dayanto
   REFERENSI
     Fungsi Built-in
     
+04_library_numpy_v01.ipynb
+  Library NumPy
+    Dasar-dasar NumPy
+    Random NumPy
+    NumPy ufunc
+
+05_library_pandas_v01.ipynb
+  Library Pandas
+    Dasar-dasar Pandas
+    Pembersihan Data
+    Korelasi Data
+    Plotting
+    
+
 
