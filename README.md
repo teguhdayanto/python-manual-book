@@ -66,5 +66,8 @@ Author: Teguh Dayanto
     Korelasi Data
     Plotting
     
-
+08_matplotlib_v01.ipynb
+  Matplotlib
+    Pengenalan Matplotlib
+    
 
