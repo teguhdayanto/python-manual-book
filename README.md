@@ -70,4 +70,35 @@ Author: Teguh Dayanto
   Matplotlib
     Pengenalan Matplotlib
     
+12_machine_learning_v01.ipynb
+  Machine Learning
+    Permulaan
+    Dataset
+    Tipe data
+    Standar Deviasi
+    Percentile
+    Distribusi Data
+    Distribusi Data Normal
+    Plot Scatter
+    Regresi Linier
+    Regresi Polinomial
+    Regresi Berganda
+    Scale
+    Train / Test
+    Decision Tree
+    Confusion Matrix
+    Pengelompokan Hirarki
+    Logistic Regression
+    Grid Search
+    Categorical Data
+    K-means
+    Bootstrap Aggregation (Bagging)
+    Cross Validation
+    AUC - ROC Curve
+    K-nearest neighbors (KNN)
+    
+    
+
+
+
 
