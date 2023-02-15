@@ -42,6 +42,42 @@ Author: Teguh Dayanto
     User Input
     Format String
 
+01_studi_kasus_percabangan_perulangan_v01
+  PERCABANGAN
+    Percabangan 1 baris
+    Percabangan Bertingkat
+    Contoh BONUS & DISKON BELANJA
+    Contoh DERET 3 ANGKA
+    Contoh TAHUN KABISAT
+    Pernyataan pass
+    Operator Boolean
+  PERULANGAN FOR
+    Perulangan for dengan list
+    Perulangan for dengan tuple
+    Perulangan for dengan string
+    Perulangan for..else
+    Perulangan for bersarang
+    Pernyataan pass
+  PERULANGAN WHILE
+    Perulangan while dengan list
+    Perulangan while dengan inputan
+  PERULANGAN & PERCABANGAN
+    Perulangan for dengan break dan continue
+    Perulangan for..else + break
+    Perulangan while dengan continue
+    Perulangan while dengan break
+    Perulangan while..else
+  CONTOH-CONTOH PROGRAM
+    Maximum Profit Finder
+    Bilangan Ganjil Genap
+    Bilangan Prima
+    Deret Fibonacci Non Rekursif
+    Deret Fibonacci Dengan Rekursif
+    Menghitung huruf vokal
+    Mengitung perpangkatan
+    Statistik Sederhana (Mean, Median, Modus)
+    Mainan Tebak Angka
+
 02_file_handling_v01.ipynb
   MENANGANI FILE
     File Handling
