@@ -5,6 +5,7 @@ Author: Teguh Dayanto
         fb. @tgh.dayanto
 
 01_basic_python_v01.ipynb
+01_basic_python_v02.ipynb
   DASAR-DASAR PYTHON
     Pengantar
     Langkah Awal
