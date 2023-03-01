@@ -1,8 +1,8 @@
 # buku-resep-python
+
 Folder ini berisi resep-resep sintaks coding python.
 Author: Teguh Dayanto
-        ig. @tgh.dayanto
-        fb. @tgh.dayanto
+        ig. @teguh.dayanto
 
 01_basic_python_v01.ipynb
 01_basic_python_v02.ipynb
