@@ -1,4 +1,4 @@
-# buku-resep-python
+# python-manual-book
 
 Folder ini berisi resep-resep sintaks coding python.
 Author: Teguh Dayanto
