@@ -91,6 +91,8 @@ Author: Teguh Dayanto
     Fungsi Built-in
     
 04_library_numpy_v01.ipynb
+04_library_numpy_v02.ipynb
+04_library_numpy_v03.ipynb
   Library NumPy
     Dasar-dasar NumPy
     Random NumPy
