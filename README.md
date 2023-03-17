@@ -109,3 +109,8 @@ Author: Teguh Dayanto
   Matplotlib
     Pengenalan Matplotlib
     
+Join data csv menggunakan pandas
+code: python_menggabungkan_2_file_csv.ipynb
+dataset: sample-listing-properti-1.csv
+         sample-listing-properti-2.csv
+
